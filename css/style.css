@@ -1,0 +1,450 @@
+.header .wrapper
+{
+	width:80%;
+	margin:auto;
+	
+}
+.header
+{
+	height:75px;
+	background-color:grey;
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .start
+{
+	height:55px;
+	width:225px;
+	background-color:black;
+}
+.header .header-fc .detail
+{
+	height:55px;
+	width:530px;
+	background-color:black;
+}
+.welcome.wrapper
+{
+	width:80%;
+	margin:auto;
+	
+}
+.welcome
+{
+	height:675px;
+	background-color:grey;
+}
+.welcome .welcome-fc
+{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.welcome .welcome-fc .texta
+{
+	height:60px;
+	width:435px;
+	background-color:black;
+	margin-top:80px;
+}
+.welcome .welcome-fc .textb
+{
+	height:70px;
+	width:1000px;
+	background-color:black;
+	margin-top:80px;
+}
+.welcome .welcome-fc .textc
+{
+	height:75px;
+	width:450px;
+	background-color:black;
+	margin-top:80px;
+}
+.service .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.service
+{
+	height:660px;
+	background-color:white;
+}
+.service .service-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+	
+}
+.service .service-fc .texta
+{
+	height:110px;
+	width:1200px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.service .service-fc .boxa
+{
+	height:357px;
+	width:333px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.service .service-fc .boxb
+{
+	height:357px;
+	width:333px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.service .service-fc .boxc
+{
+	height:357px;
+	width:333px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.portfolio .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolio
+{
+	height:1115px;
+	background-color:white;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.portfolio .portfolio-fc .text
+{
+	height:90px;
+	width:1200px;
+	background-color:grey;
+	margin-top:60px;
+}
+.portfolio .portfolio-fc .boxa
+{
+	height:373px;
+	width:357px;
+	background-color:grey;
+	margin-top:60px;
+}
+.portfolio .portfolio-fc .boxb
+{
+	height:373px;
+	width:357px;
+	background-color:grey;
+	margin-top:60px;
+}
+.portfolio .portfolio-fc .boxc
+{
+	height:373px;
+	width:357px;
+	background-color:grey;
+	margin-top:60px;
+}
+.portfolio .portfolio-fc .boxd
+{
+	height:373px;
+	width:357px;
+	background-color:grey;
+	margin-top:60px;
+}
+.portfolio .portfolio-fc .boxe
+{
+	height:373px;
+	width:357px;
+	background-color:grey;
+	margin-top:60px;
+}
+.portfolio .portfolio-fc .boxf
+{
+	height:373px;
+	width:357px;
+	background-color:grey;
+	margin-top:60px;
+}
+.about .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.about
+{
+	height:1300px;
+	background-color:white;
+}
+.about .about-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.about .about-fc .text
+{
+	height:90px;
+	width:1200px;
+	background-color:grey;
+	margin-top:20px;
+}
+.about .about-fc .boxa
+{
+	height:370px;
+	width:521px;
+	background-color:grey;
+	margin-top:20px;
+}
+.about .about-fc .boxb
+{
+	height:370px;
+	width:521px;
+	background-color:grey;
+	margin-top:20px;
+}
+.about .about-fc .boxc
+{
+	height:370px;
+	width:521px;
+	background-color:grey;
+	margin-top:20px;
+}
+.about .about-fc .boxd
+{
+	height:370px;
+	width:521px;
+	background-color:grey;
+	margin-top:20px;
+}
+.about .about-fc .boxe
+{
+	height:370px;
+	width:521px;
+	background-color:grey;
+	margin-top:20px;
+}
+.about .about-fc .boxf
+{
+	height:370px;
+	width:521px;
+	background-color:grey;
+	margin-top:20px;
+}
+.team .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.team
+{
+	height:822px;
+	background-color:white;
+}
+.team .team-fc
+{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.team .team-fc .texta
+{
+	height:100px;
+	width:1200px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.team .team-fc .boxa
+{
+	height:410px;
+	width:310px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.team .team-fc .boxb
+{
+	height:410px;
+	width:310px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.team .team-fc .boxc
+{
+	height:410px;
+	width:310px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.team .team-fc .textb
+{
+	height:100px;
+	width:1200px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.app .wrapper
+{
+	margin:auto;
+	width:80%;
+}
+.app
+{
+	height:170px;
+	background-color:grey;
+}
+.app .app-fc
+{
+	display:flex;
+
+	justify-content:space-between;
+}
+.app .app-fc .texta
+{
+	height:70px;
+	width:220px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.app .app-fc .boxa
+{
+	height:70px;
+	width:220px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.app .app-fc .boxb
+{
+	height:70px;
+	width:220px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.app .app-fc .boxc
+{
+	height:70px;
+	width:220px;
+	background-color:lightblue;
+	margin-top:60px;
+}
+.contact .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.contact 
+{
+	height:700px;
+	background-color:black;
+}
+.contact .contact-fc
+{
+	display:flex;
+	justify-content:space-between;
+
+}
+.contact .contact-fc .boxa
+{
+	height:95px;
+	width:1200px;
+	background-color:grey;
+	margin-top:50px;
+}
+.contact .box-fc 
+{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+.contact .box-fc .boxa
+{
+	height:300px;
+	width:520px;
+	background-color:white;
+	margin-top:50px;
+}
+.contact .box-fc .boxb
+{
+	height:300px;
+	width:520px;
+	background-color:white;
+	margin-top:50px;
+}
+.contact .box-fc .boxa .texta
+{
+	height:50px;
+	width:520px;
+	background-color:grey;
+	margin-top:40px;
+	
+}
+.contact .box-fc .boxa .textb
+{
+	height:50px;
+	width:520px;
+	background-color:grey;
+	margin-top:40px;
+}
+.contact .box-fc .boxa .textc
+{
+	height:50px;
+	width:520px;
+	background-color:grey;
+	margin-top:40px;
+}
+.contact .button-fc
+{
+	display:flex;
+	justify-content:center;
+}
+.contact .button-fc .button
+{
+	height:55px;
+	width:300px;
+	background-color:white;
+	margin-top:50px;
+}
+.footer .wrapper
+{
+	margin:auto;
+	width:80%;
+	
+}
+.footer
+{
+	height:90px;
+	background-color:white;
+}
+.footer .footer-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.footer .footer-fc .texta
+{
+	height:50px;
+	width:265px;
+	background-color:black;
+	margin-top:15px;
+}
+.footer .footer-fc .textb
+{
+	height:50px;
+	width:220px;
+	background-color:black;
+	margin-top:15px;
+}
+.footer .footer-fc .textc
+{
+	height:50px;
+	width:585px;
+	background-color:black;
+	margin-top:15px;
+}
